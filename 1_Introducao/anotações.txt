@@ -1,1 +1,4 @@
 Java é uma linguagem de programção robusta, de ampla portabilidade e muito confiavel em quesito segurança
+Java é um alinguagem muito popular e possui integração com varios sistemas
+Muito aplicaveis com IAs e análise de dados e integração de redes sociais
+A portabilidade da JVM é uma grande vantagem
